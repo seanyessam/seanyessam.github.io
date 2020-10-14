@@ -51,17 +51,20 @@ resume:
         name: "Software Engineering Intern - Dover Fueling Solutions"
         text: "Interned for the Software Engineering test department. Worked closely on the embedded software used in the gas pumps manufactured on site. 
                Developed Python UI scripts that automated the build process for new software builds in order to save the company on time and manual labor."
+
+      - year: " ... "
         
   education:
     title: "Education"
     items:
-      - year: "Present"
+      - year: "2018 - Present"
         name: "Texas A&M University - College Station, TX"
         text: "Majoring in Computer Engineering and Computer Science"
 
-      - year: "2018"
-        name: "Related Coursework"
+      - name: "Related Coursework"
         text: "Data Structures & Algorithms Differential EquationsComputer Architecture Signals & Systems"
+
+      - year: " ... "
 
 ### Skills [ skills ]
 skills:

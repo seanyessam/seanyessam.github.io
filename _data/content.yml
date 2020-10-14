@@ -59,30 +59,36 @@ resume:
     items:
       - year: "2018 - Present"
         name: "Texas A&M University - College Station, TX"
-        text: "Majoring in Computer Engineering and Computer Science"
+        text: "Major: <b>Computer Engineering and Computer Science</b> <br>
+               Current GPA: <b>4.0</b> <br>
+               Expected Graduation: <b>May 2022</b>"
 
-      - name: "Related Coursework"
-        text: "Data Structures & Algorithms Differential EquationsComputer Architecture Signals & Systems"
+      - year: ""
+        name: "Related Coursework"
+        text: "- Data Structures & Algorithms <br>
+               - Differential Equations <br>
+               - Computer Architecture <br>
+               - Signals & Systems"
 
       - year: " ... "
 
 ### Skills [ skills ]
 skills:
   columns:
-    # - type: "default" #skills progress type - default, dotted, circles, list
-    #   title: "Design Skills"
-    #   items:
-    #     - label: "Web Design"
-    #       value: "70" #0-100 progress in %
+    - type: "default" #skills progress type - default, dotted, circles, list
+      title: "Coding Skills"
+      items:
+        - label: "C/C++"
+          value: "90" #0-100 progress in %
 
-    #     - label: "Illustrations"
-    #       value: "90" #0-100 progress in %
+        - label: "Python"
+          value: "80" #0-100 progress in %
 
-    #     - label: "Photoshop"
-    #       value: "75" #0-100 progress in %
+        - label: "HTML / Jekyll"
+          value: "75" #0-100 progress in %
 
-    #     - label: "Graphic Design"
-    #       value: "80" #0-100 progress in %
+        - label: "ARMv8 Assembly"
+          value: "80" #0-100 progress in %
 
     # - type: "dotted" #skills progress type - default, dotted, circles, list
     #   title: "Languages Skills"
@@ -99,20 +105,20 @@ skills:
     #     - label: "French"
     #       value: "85" #0-100 progress in %
 
-    - type: "circles" #skills progress type - default, dotted, circles, list
-      title: "Coding Skills"
-      items:
-        - label: "WordPress"
-          value: "95" #0-100 progress in %
+    # - type: "circles" #skills progress type - default, dotted, circles, list
+    #   title: "Coding Skills"
+    #   items:
+    #     - label: "WordPress"
+    #       value: "95" #0-100 progress in %
 
-        - label: "PHP / MYSQL"
-          value: "75" #0-100 progress in %
+    #     - label: "PHP / MYSQL"
+    #       value: "75" #0-100 progress in %
 
-        - label: "Angular / JavaScript"
-          value: "85" #0-100 progress in %
+    #     - label: "Angular / JavaScript"
+    #       value: "85" #0-100 progress in %
 
-        - label: "HTML / CSS"
-          value: "90" #0-100 progress in %
+    #     - label: "HTML / CSS"
+    #       value: "90" #0-100 progress in %
 
     - type: "list" #skills progress type - default, dotted, circles, list
       title: "Knowledge"

@@ -27,7 +27,9 @@
 				<div class="resume-items">
 					{% for item in content.education.items %}
 					<div class="resume-item">
+						{% if item.year != "" %}
 						<div class="date">{{ item.year }}</div>
+						{% endif %}
 						<div class="name">{{ item.name }}</div>
 						<p>
 							{{ item.text }}

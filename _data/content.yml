@@ -6,30 +6,30 @@
 ### About [ about ]
 about:
   title: "About Me"
-  image: "assets/img/man1.jpg"
+  image: "assets/img/github-pic.PNG"
   text: "
         <p>
-          <strong>Hello! I’m John Doe.</strong><br> Web designer from Ukraine, Kiev. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.
+          <strong>Howdy! I’m Sean Massey.</strong><br> I am a Junior Computer Engineering/Computer Science major at Texas A&M University with a knack for computers and figuring out what makes them tick. 
         </p>
         "
   list:
     - label: "Name"
-      value: "24"
+      value: "Sean"
 
     - label: "Age"
-      value: "22 Years"
+      value: "20"
 
     - label: "Job"
-      value: "Web Developer"
+      value: "Student"
 
     - label: "Citizenship"
-      value: "Ukraine"
+      value: "USA"
 
-    - label: "Residence"
-      value: "Kiev"
+    - label: "Home"
+      value: "Texas"
 
     - label: "E-mail"
-      value: "johndoe@domain.com"
+      value: "sean.yessam@gmail.com"
 
   download:
     text: "Download CV"
@@ -40,32 +40,27 @@ resume:
   experience:
     title: "Experience"
     items:
-      - year: "2013 - Present"
-        name: "Art Director - Facebook Inc"
-        text: "Collaborate with creative and development teams on the execution of ideas."
+      - year: "Jun 2020 - Aug 2020"
+        name: "FPGA Software Engineering Intern - Trend Micro"
+        text: "Interning on the FPGA Engineering team inside of an iterative development environment. 
+               Worked on a forensic assistance product to be used in house as an aid in customer issue case turnaround. 
+               Developed software that worked closely with the FPGA and other supporting hardware to receive and process packet traffic. 
+               Built on my understanding of tools and concepts such as C/C++ build systems, threading, Linux environments, Intel DPDK, and system level programming."
 
-      - year: "2011 - 2012"
-        name: "Front-end Developer - Google Inc"
-        text: "Monitored technical aspects of the front-end delivery for several projects."
-
-      - year: "2009 - 2010"
-        name: "Senior Developer - Abc Inc"
-        text: "Optimize website performance using latest technology."
+      - year: "Jun 2019 - Aug 2019"
+        name: "Software Engineering Intern - Dover Fueling Solutions"
+        text: "Interned for the Software Engineering test department. Worked closely on the embedded software used in the gas pumps manufactured on site. 
+               Developed Python UI scripts that automated the build process for new software builds in order to save the company on time and manual labor."
         
   education:
     title: "Education"
     items:
-      - year: "2006 - 2008"
-        name: "Art University of New York"
-        text: "Bachelor's Degree in Computer Science ABC Technical Institute, Jefferson, Missouri"
+      - year: "2018 - Present"
+        name: "Texas A&M University - College Station, TX"
+        text: "Majoring in Computer Engineering and Computer Science"
 
-      - year: "2005 - 2006"
-        name: "Programming Course"
-        text: "Coursework - Git, WordPress, Javascript, iOS, Android."
-
-      - year: "2004 - 2005"
-        name: "Web Design Course"
-        text: "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript"
+        name: "Related Coursework"
+        text: "Data Structures & Algorithms\t\tDifferential Equations\nComputer Architecture\t\tSignals & Systems"
 
 ### Skills [ skills ]
 skills:
@@ -142,55 +137,55 @@ skills:
         - label: "Search engine marketing"
           value: "" #0-100 progress in %
 
-### Services [ services ]
-services:
-  title: "My Services"
-  items:
-    - icon: "social-html5"
-      name: "Front-end"
-      text: "Front-end web development is the practice of converting data to a graphical interface, through the use of HTML, CSS, and JavaScript."
+# ### Services [ services ]
+# services:
+#   title: "My Services"
+#   items:
+#     - icon: "social-html5"
+#       name: "Front-end"
+#       text: "Front-end web development is the practice of converting data to a graphical interface, through the use of HTML, CSS, and JavaScript."
 
-    - icon: "ipad"
-      name: "Mobile Application"
-      text: "A mobile application, most commonly referred to as an app, is a type of application software designed to run on a mobile."
+#     - icon: "ipad"
+#       name: "Mobile Application"
+#       text: "A mobile application, most commonly referred to as an app, is a type of application software designed to run on a mobile."
 
-    - icon: "ios-search-strong"
-      name: "Investigation"
-      text: "Investigation, examination, inquiry, research express the idea of an active effort to find out something."
+#     - icon: "ios-search-strong"
+#       name: "Investigation"
+#       text: "Investigation, examination, inquiry, research express the idea of an active effort to find out something."
 
-    - icon: "code"
-      name: "Programming"
-      text: "Computer programming is the process of designing and building an executable computer program to accomplish a specific."
+#     - icon: "code"
+#       name: "Programming"
+#       text: "Computer programming is the process of designing and building an executable computer program to accomplish a specific."
 
-    - icon: "help-buoy"
-      name: "Awesome Supports"
-      text: "Awesome Support is the most versatile and feature-rich. Get started for free and add premium features as your business grows."
+#     - icon: "help-buoy"
+#       name: "Awesome Supports"
+#       text: "Awesome Support is the most versatile and feature-rich. Get started for free and add premium features as your business grows."
 
-    - icon: "social-chrome"
-      name: "Web Development"
-      text: "Web development is the work involved in developing a Web site for the Internet or an intranet and social network services."
+#     - icon: "social-chrome"
+#       name: "Web Development"
+#       text: "Web development is the work involved in developing a Web site for the Internet or an intranet and social network services."
 
-### Clients [ clients ]
-clients:
-  title: "Clients"
-  items:
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client_1.png"
+# ### Clients [ clients ]
+# clients:
+#   title: "Clients"
+#   items:
+#     - url: "https://www.google.com"
+#       image: "assets/img/clients/client_1.png"
 
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client_2.png"
+#     - url: "https://www.google.com"
+#       image: "assets/img/clients/client_2.png"
 
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client_3.png"
+#     - url: "https://www.google.com"
+#       image: "assets/img/clients/client_3.png"
 
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client_1.png"
+#     - url: "https://www.google.com"
+#       image: "assets/img/clients/client_1.png"
 
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client_2.png"
+#     - url: "https://www.google.com"
+#       image: "assets/img/clients/client_2.png"
 
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client_3.png"
+#     - url: "https://www.google.com"
+#       image: "assets/img/clients/client_3.png"
 
 ### Contact Info [ contacts-info ]
 contacts_info:

@@ -59,7 +59,7 @@ resume:
         name: "Texas A&M University - College Station, TX"
         text: "Majoring in Computer Engineering and Computer Science"
 
-        year: "2018"
+      - year: "2018"
         name: "Related Coursework"
         text: "Data Structures & Algorithms Differential EquationsComputer Architecture Signals & Systems"
 

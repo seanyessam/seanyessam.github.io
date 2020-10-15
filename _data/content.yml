@@ -33,7 +33,7 @@ about:
 
   download:
     text: "Download CV"
-    link: "https://drive.google.com/"
+    link: "https://docs.google.com/document/d/1kmOKxF4FEwFz6tj3qbSSq_KerE2SyluX-KcgfeCXZBE/edit?usp=sharing"
 
 ### Resume [ resume ]
 resume:
@@ -121,31 +121,31 @@ skills:
     #       value: "90" #0-100 progress in %
 
     - type: "list" #skills progress type - default, dotted, circles, list
-      title: "Knowledge"
+      title: "Leadership / On-Campus Involvement"
       items:
-        - label: "Website hosting"
+        - label: "Freshman Leaders Establishing Excellence (FLEX)"
           value: "" #0-100 progress in %
 
-        - label: "iOS and android apps"
+        - label: "Sophomores Advancing in Leadership (SAIL)"
           value: "" #0-100 progress in %
 
-        - label: "Create logo design"
+        - label: "Fish Camp Counselor"
           value: "" #0-100 progress in %
 
-        - label: "Design for print"
-          value: "" #0-100 progress in %
+        # - label: "Design for print"
+        #   value: "" #0-100 progress in %
 
-        - label: "Modern and mobile-ready"
-          value: "" #0-100 progress in %
+        # - label: "Modern and mobile-ready"
+        #   value: "" #0-100 progress in %
 
-        - label: "Advertising services include"
-          value: "" #0-100 progress in %
+        # - label: "Advertising services include"
+        #   value: "" #0-100 progress in %
 
-        - label: "Graphics and animations"
-          value: "" #0-100 progress in %
+        # - label: "Graphics and animations"
+        #   value: "" #0-100 progress in %
 
-        - label: "Search engine marketing"
-          value: "" #0-100 progress in %
+        # - label: "Search engine marketing"
+        #   value: "" #0-100 progress in %
 
 # ### Services [ services ]
 # services:
@@ -203,15 +203,15 @@ contacts_info:
   list:
     - label: "Phone"
       icon: "android-phone-portrait"
-      value: "+ (231) 456 67 89"
+      value: "(512) 709-4173"
 
     - label: "Email"
       icon:  "email"
-      value: "<a href='mailto:john-doe@gmail.com'>john-doe@gmail.com</a>"
+      value: "<a href='mailto:sean.yessam@gmail.com'>sean.yessam@gmail.com</a>"
 
-    - label: "Address"
+    - label: "Location"
       icon: "ios-location"
-      value: "2621 W Pico Blvd, Los Angeles"
+      value: "Bryan, Texas"
 
 ### Contact Form [ contacts-form ]
 contacts_form:

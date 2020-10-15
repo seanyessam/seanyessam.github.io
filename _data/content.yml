@@ -79,10 +79,10 @@ skills:
       title: "Coding Skills"
       items:
         - label: "C/C++"
-          value: "90" #0-100 progress in %
+          value: "95" #0-100 progress in %
 
         - label: "Python"
-          value: "80" #0-100 progress in %
+          value: "85" #0-100 progress in %
 
         - label: "HTML / Jekyll"
           value: "75" #0-100 progress in %

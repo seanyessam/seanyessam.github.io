@@ -42,15 +42,15 @@ resume:
     items:
       - year: "Jun 2020 - Aug 2020"
         name: "FPGA Software Engineering Intern - Trend Micro"
-        text: "Interning on the FPGA Engineering team inside of an iterative development environment. 
-               Worked on a forensic assistance product to be used in house as an aid in customer issue case turnaround. 
-               Developed software that worked closely with the FPGA and other supporting hardware to receive and process packet traffic. 
-               Built on my understanding of tools and concepts such as C/C++ build systems, threading, Linux environments, Intel DPDK, and system level programming."
+        text: "- Interned on the FPGA Engineering team inside of an iterative development environment. <br>
+               - Worked on a forensic assistance product to be used in house as an aid in customer issue case turnaround. <br>
+               - Developed software that worked closely with the FPGA and other supporting hardware to receive and process packet traffic. <br>
+               - Built on my understanding of tools and concepts such as C/C++ build systems, threading, Linux environments, Intel DPDK, and system level programming."
 
       - year: "Jun 2019 - Aug 2019"
         name: "Software Engineering Intern - Dover Fueling Solutions"
-        text: "Interned for the Software Engineering test department. Worked closely on the embedded software used in the gas pumps manufactured on site. 
-               Developed Python UI scripts that automated the build process for new software builds in order to save the company on time and manual labor."
+        text: "- Interned for the Software Engineering test department. Worked closely on the embedded software used in the gas pumps manufactured on site. <br>
+               - Developed Python UI scripts that automated the build process for new software builds in order to save the company on time and manual labor."
 
       - year: " ... "
         

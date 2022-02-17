@@ -44,7 +44,7 @@ resume:
         name: "Product Development Engineering Co-Op - Advanced Micro Devices"
         text: "- Used Python and Ruby to construct and decode Machine Check Exception (MCE) soft rate errors. <br>
                - Automated the probing and creation of part specific error mapping. <br>
-               - Performed data analysis to optimize the sorting and binning of silicon die. 
+               - Performed data analysis to optimize the sorting and binning of silicon die."
       - year: "Jun 2020 - Aug 2020"
         name: "FPGA Software Engineering Intern - Trend Micro"
         text: "- Interned on the FPGA Engineering team inside of an iterative development environment. <br>

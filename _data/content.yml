@@ -9,7 +9,7 @@ about:
   image: "assets/img/website-resume-pic.jpg"
   text: "
         <p>
-          <strong>Howdy! I’m Sean Massey.</strong><br> I am a Junior Computer Engineering/Computer Science major at Texas A&M University with a knack for computers and figuring out what makes them tick. 
+          <strong>Howdy! I’m Sean Massey.</strong><br> I am a Senior Computer Engineering/Computer Science major at Texas A&M University with a knack for computers and figuring out what makes them tick. 
         </p>
         "
   list:
@@ -17,7 +17,7 @@ about:
       value: "Sean"
 
     - label: "Age"
-      value: "20"
+      value: "21"
 
     - label: "Job"
       value: "Student"
@@ -40,6 +40,11 @@ resume:
   experience:
     title: "Experience"
     items:
+    - year: "Jun 2021 - December 2021"
+        name: "Product Development Engineering Co-Op - Advanced Micro Devices"
+        text: "- Used Python and Ruby to construct and decode Machine Check Exception (MCE) soft rate errors. <br>
+               - Automated the probing and creation of part specific error mapping. <br>
+               - Performed data analysis to optimize the sorting and binning of silicon die. 
       - year: "Jun 2020 - Aug 2020"
         name: "FPGA Software Engineering Intern - Trend Micro"
         text: "- Interned on the FPGA Engineering team inside of an iterative development environment. <br>
